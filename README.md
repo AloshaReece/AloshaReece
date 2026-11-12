@@ -1,6 +1,6 @@
-Hi, I'm Alosha Shumba
+Hi, I'm Alosha
 
-Information Systems Graduate | .NET Software Engineer
+Information Systems Professional | .NET Software Engineer
 
 I build software solutions that address practical business and operational challenges.
 
@@ -25,16 +25,6 @@ Frameworks & Platforms:.NET, ASP.NET Core, .NET MAUI, Blazor, React,
 Databases: SQL Server, PostgreSQL, SQLite
 
 Tools: Git, GitHub, Docker
-
-Featured Project
-
-Vendor Relationship Management System (VRMS)
-
-An enterprise-oriented platform designed to improve vendor and procurement management.
-
-The system focuses on vendor profiles, contract management, invoices, payments, performance ratings, and operational visibility.
-
-Built with C#, .NET, Blazor, and SQLite.
 
 What I'm Working Towards
 
